@@ -11,3 +11,5 @@ function chunk(array, size) {
         throw new Error('请传入数组')
     }
 }
+
+export default chunk
