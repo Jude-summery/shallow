@@ -13,3 +13,5 @@ function concat() {
     }
     return result
 }
+
+export default concat
