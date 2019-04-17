@@ -41,3 +41,5 @@ function differenceBy(array, values, iteratee) {
 
     return result
 }
+
+export default differenceBy

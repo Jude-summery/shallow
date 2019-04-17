@@ -10,3 +10,5 @@ function dropRight(array, n) {
     }
     return result
 }
+
+export default dropRight
