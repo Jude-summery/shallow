@@ -9,6 +9,7 @@ function lastIndexOf(array, value, fromIndex) {
      * 之前的写法
      * fromIndex = fromIndex == null ? length - 1 : fromIndex
      * 并没有考虑到fromIndex < 0的情况
+     * 和fromIndex大于数组长度的情况
      */
     
     for(let i = index; i >= 0 ; i--){
