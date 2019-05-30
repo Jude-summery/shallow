@@ -17,3 +17,5 @@ function pull(array, ...arg) {
 
     return result
 }
+
+export default pull
